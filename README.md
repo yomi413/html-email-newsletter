@@ -29,15 +29,15 @@ Bug reports and pull requests are welcome on GitHub at <a href="https://github.c
 1. Open this repository <a href="https://github.com/yomi413/html-email-newsletter">https://github.com/yomi413/html-email-newsletter</a>.
 2. Fork this repository to create your own copy.
 3. Once forked, clone the repository onto your local environment by following these commands:
-   a. In your terminal go to your working directory where you want this file to live.
-   b. Once in your directory of choice type `git clone git@github.com:yomi413/html-email-newsletter.git`.
-   c. Type `cd html-email-newsletter`.
-   d. Do not work directly in the master branch. Create a new branch for your work using `git checkout -b [name_of_you_new_branch]`.  
-   e. Open in your text editor of choice. I use VS Code.
-   f. Once changes are made, commit your changes to your branch using the following commands: `git add <file name>` `git commit -m “Brief but descriptive message”` `git push`. These commands will update your new branch that lives in your version of the repository on GitHub.
-   g. In GitHub, click on `New Pull Request`.
-   h. Choose the branches you want compared and submit a pull request to merge the files.
-   i. When the pull request gets submitted the original owner will review changes and approve the request.
+   i. In your terminal go to your working directory where you want this file to live.
+   ii. Once in your directory of choice type `git clone git@github.com:yomi413/html-email-newsletter.git`.
+   iii. Type `cd html-email-newsletter`.
+   iv. Do not work directly in the master branch. Create a new branch for your work using `git checkout -b [name_of_you_new_branch]`.  
+   v. Open in your text editor of choice. I use VS Code.
+   vi. Once changes are made, commit your changes to your branch using the following commands: `git add <file name>` `git commit -m “Brief but descriptive message”` `git push`. These commands will update your new branch that lives in your version of the repository on GitHub.
+   vii. In GitHub, click on `New Pull Request`.
+   viii. Choose the branches you want compared and submit a pull request to merge the files.
+   ix. When the pull request gets submitted the original owner will review changes and approve the request.
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
