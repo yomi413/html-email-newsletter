@@ -11,7 +11,7 @@ In this first project for Moms Can Code School we were tasked with the creation 
 3. Build our newsletter using HTML and CSS;
 4. Understand the proper use of the `<table>` element and its children elements in the layout of the email newsletter;
 5. Understand how to add inline CSS into the HTML so as to provide styling to the full structure;
-6. Explore external resources to add extra pizzazz to our newsletter (Checkout the header at the opening of this README that was created using canva.com!); and
+6. Explore external resources to add extra pizzazz to our newsletter (Checkout the header at the opening of this README that was created using <a href="https://www.canva.com/">canva.com</a>!); and
 7. Test your code by viewing in the browser and also testing through different email platforms.
 
 ## Our Purpose
