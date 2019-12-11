@@ -39,10 +39,10 @@ Bug reports and pull requests are welcome on GitHub at <a href="https://github.c
    - `git commit -m “[Brief but descriptive message]”`
    - `git push`
      At this point only the branch that lives in your version of the repository on GitHub has been updated.
-   10. In GitHub, inside your version of the repository, click on `New Pull Request`.
-   11. Choose the branches you want compared and submit a pull request to merge the files.
-   12. When the pull request gets submitted the original owner of the repository will review changes and approve the request.
-   13. Once approved, and if no conflict exists with master repository, changes will be merged and all files are up to date.
+   7. In GitHub, inside your version of the repository, click on `New Pull Request`.
+   8. Choose the branches you want compared and submit a pull request to merge the files.
+   9. When the pull request gets submitted the original owner of the repository will review changes and approve the request.
+   10. Once approved, and if no conflict exists with master repository, changes will be merged and all files are up to date.
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
