@@ -35,10 +35,10 @@ Bug reports and pull requests are welcome on GitHub at <a href="https://github.c
    4. Do not work directly in the master branch. Create a new branch for your work using `git checkout -b [name_of_you_new_branch]`.
    5. Open in your text editor of choice. I use VS Code.
    6. Once changes are made, commit your changes to your branch using the following commands:
-   7. `git add <file name>`
-   8. `git commit -m “[Brief but descriptive message]”`
-   9. `git push`
-      At this point only the branch that lives in your version of the repository on GitHub has been updated.
+   - `git add <file name>`
+   - `git commit -m “[Brief but descriptive message]”`
+   - `git push`
+     At this point only the branch that lives in your version of the repository on GitHub has been updated.
    10. In GitHub, inside your version of the repository, click on `New Pull Request`.
    11. Choose the branches you want compared and submit a pull request to merge the files.
    12. When the pull request gets submitted the original owner of the repository will review changes and approve the request.
