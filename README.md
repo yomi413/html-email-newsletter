@@ -6,7 +6,7 @@
 
 In this first project for Moms Can & Co. Cohort 5 we were tasked with the creation of an HTML email newsletter. As part of the project here are some of the things we had to tackle:
 
-1. Establish good lines of communication with our project partners as we learn how to peer program and work remotely.
+1. Establish good lines of communication with our project partners as we learn to peer program and work remotely.
 2. Learn how to use GitHub to establish proper use of version control.
 3. Build our newsletter using HTML and inline CSS.
 4. Understand the proper use of the `<table>` element and its children elements in the layout of the email newsletter.
@@ -34,10 +34,15 @@ Bug reports and pull requests are welcome on GitHub at <a href="https://github.c
    3. Type `cd html-email-newsletter`.
    4. Do not work directly in the master branch. Create a new branch for your work using `git checkout -b [name_of_you_new_branch]`.
    5. Open in your text editor of choice. I use VS Code.
-   6. Once changes are made, commit your changes to your branch using the following commands: `git add <file name>` `git commit -m “[Brief but descriptive message]”` `git push`. These commands will update your new branch that lives in your version of the repository on GitHub.
-   7. In GitHub, click on `New Pull Request`.
-   8. Choose the branches you want compared and submit a pull request to merge the files.
-   9. When the pull request gets submitted the original owner will review changes and approve the request.
+   6. Once changes are made, commit your changes to your branch using the following commands:
+   7. `git add <file name>`
+   8. `git commit -m “[Brief but descriptive message]”`
+   9. `git push`
+      At this point only the branch that lives in your version of the repository on GitHub has been updated.
+   10. In GitHub, inside your version of the repository, click on `New Pull Request`.
+   11. Choose the branches you want compared and submit a pull request to merge the files.
+   12. When the pull request gets submitted the original owner of the repository will review changes and approve the request.
+   13. Once approved, and if no conflict exists with master repository, changes will be merged and all files are up to date.
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
